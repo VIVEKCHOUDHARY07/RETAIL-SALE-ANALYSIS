@@ -159,20 +159,6 @@ IGNORE 1 ROWS;
 
     Open a Pull Request
 
-📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-👨💻 Author
-
-Vivek Choudhary
-
-    GitHub: @VIVEKCHOUDHARY07
-
-    Email: vivek.choudhary.0779@gmail.com
-
-
-
-
 📞 Support
 
 If you encounter any issues or have questions:
